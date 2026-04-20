@@ -2,7 +2,7 @@
 recent compsci graduate with a double major in **AI and Data Science**.  
 
 ### about me
-- 🎓 **BSc (CS) Computer Science (AI & Data Science) @ Swinburne Sarawak.
+- 🎓 BSc (CS) Computer Science (AI & Data Science) @ Swinburne Sarawak.
 - 📍 Based in Malaysia
 - 🔍 Actively seeking opportunities in **AI, Machine Learning, and Data Science**
 - 🔬 Co-author of research on 3D Forest Segmentation presented at **APSIPA ASC 2025**
@@ -45,7 +45,13 @@ style=flat&logo=googlecolab&logoColor=white)
 - **Email:** bdsimry@gmail.com
 
 <!-- Visual Stats Section -->
-<p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=vivid&hide_border=true&title_color=334155&icon_color=334155&text_color=444" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsimry&layout=compact&theme=vivid&hide_border=true&title_color=334155&text_color=444" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=vivid&hide_border=true&title_color=334155&icon_color=334155&text_color=444" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsimry&layout=compact&theme=vivid&hide_border=true&title_color=334155&text_color=444" />
+    </td>
+  </tr>
+</table>
