@@ -41,5 +41,5 @@ An interactive data visualisation platform built with **D3.js**. Analyzes 30 yea
 <hr>
 
 ### stats 📊
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=transparent&title_color=334155&icon_color=334155&text_color=444&hide_border=true)  
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdsimry&theme=nord_bright)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsimry&layout=compact&theme=transparent&title_color=334155&text_color=444&hide_border=true)
