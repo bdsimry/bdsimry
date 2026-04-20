@@ -1,10 +1,17 @@
-# Hi there, I'm Brenda! 👋
-Solving puzzles with code and training models with snacks. 🍵
+# hi there, i'm brenda! 👋
+recent compsci graduate with a double major in **AI and Data Science**. 🎓  
 
-### Projects
-- **[3D Tree Segmentation](https://github.com/dchgoh/FYP-A)** | LiDAR research published at **APSIPA ASC 2025**.
-- **[Cross-Domain Plant ID](https://github.com/bdsimry/Cross-Domain-Plant-Identification)** | Vision Transformers & LoRA fine-tuning.
-- **[HydroScope](https://github.com/bdsimry/HydroScope)** | Interactive D3.js environmental data dashboard.
+### Featured Projects 🚀
+
+#### [🌿 Cross-Domain Plant Identification](https://github.com/bdsimry/Cross-Domain-Plant-Identification)
+Developed a research-driven framework using **DINOv2** and **LoRA** fine-tuning to identify wild plant species from herbarium data. Achieved a significant accuracy boost on unseen species through Multi-Task Learning.
+[🔗 Try the Live Demo](https://huggingface.co/spaces/shirctt/plant-species-classifier)
+
+#### [🌊 HydroScope: Environmental Data Dashboard](https://github.com/bdsimry/HydroScope)
+An interactive data visualisation platform built with **D3.js**. Analyzes 30 years of European water stress dynamics, usage patterns, and resource availability using OECD datasets.
+
+#### [🌲 AI-Driven 3D Tree Segmentation](https://github.com/dchgoh/FYP-A)
+An automated pipeline for 3D tree organ segmentation and carbon estimation. Our research quantified the "Tropical Gap" in LiDAR processing for Malaysian rainforests.
 
 ### Tech Stack 💻
 
@@ -27,5 +34,8 @@ Solving puzzles with code and training models with snacks. 🍵
 - **LinkedIn:** (https://www.linkedin.com/in/brenda-sim-6a28062a7/)
 - **Email:** bdsimry@gmail.com
 
-<!-- Minimal Stats -->
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=vivid&hide_border=true)
+<!-- Visual Stats Section -->
+<p align="left">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=vivid&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsimry&layout=compact&theme=vivid&hide_border=true" />
+</p>
