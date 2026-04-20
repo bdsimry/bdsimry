@@ -7,7 +7,7 @@ recent compsci graduate with a double major in **AI and Data Science**.
 - 🔍 Actively seeking opportunities in **AI, Machine Learning, and Data Science**
 - 🔬 Co-author of research on 3D Forest Segmentation presented at **APSIPA ASC 2025**
 
-***
+---
 
 #### [AI-Driven 3D Tree Segmentation](https://github.com/dchgoh/FYP-A)
 An automated pipeline for 3D tree organ segmentation. Developed for my Final Year Project, this research quantified the "Tropical Gap" in LiDAR processing for rainforest environments.
@@ -37,6 +37,8 @@ An interactive data visualisation platform built with **D3.js**. Analyzes 30 yea
 style=flat&logo=googlecolab&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-334155?style=flat&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-334155?style=flat&logo=react&logoColor=white) 
+
+---
 
 ### 📫 let's connect!
 - **LinkedIn:** (https://www.linkedin.com/in/brenda-sim-6a28062a7/)
