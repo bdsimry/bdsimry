@@ -41,8 +41,6 @@ An interactive data visualisation platform built with **D3.js**. Analyzes 30 yea
 <hr>
 
 ### stats 📊
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdsimry&theme=nord_bright)
+<img src="https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=transparent&hide_border=true" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bdsimry&theme=nord_bright)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bdsimry&theme=nord_bright)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsimry&layout=compact&theme=transparent&hide_border=true" />
