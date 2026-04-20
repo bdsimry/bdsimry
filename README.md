@@ -16,7 +16,7 @@ recent compsci graduate with a double major in **AI and Data Science**.
 #### [AI-Driven 3D Tree Segmentation](https://github.com/dchgoh/FYP-A)
 An automated pipeline for 3D tree organ segmentation. Developed for my Final Year Project, this research quantified the "Tropical Gap" in LiDAR processing for rainforest environments.
 
-#### [Cross-Domain Plant Identification](https://github.com/bdsimry/Cross-Domain-Plant-Identification)
+#### [Cross-Domain Plant Identification](https://github.com/bdsimry/COS30081_Group9_ML_Project)
 A research-driven framework using **DINOv2** and **LoRA** fine-tuning. Bridged the domain gap between herbarium data and wild field photos, achieving a 10x accuracy boost on unseen species.
 
 #### [HydroScope: Environmental Data Dashboard](https://github.com/bdsimry/HydroScope)
