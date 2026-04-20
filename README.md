@@ -44,6 +44,8 @@ style=flat&logo=googlecolab&logoColor=white)
 - **LinkedIn:** (https://www.linkedin.com/in/brenda-sim-6a28062a7/)
 - **Email:** bdsimry@gmail.com
 
+---
+
 <!-- Visual Stats Section -->
 <table>
   <tr>
