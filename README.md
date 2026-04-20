@@ -1,38 +1,31 @@
 # Hi there, I'm Brenda! 👋
+Solving puzzles with code and training models with snacks. 🍵
 
-### Computer Science Graduate | AI & Data Science Major
-I am a recent graduate from **Swinburne University** with a passion for bridging the gap between complex AI research and intuitive data storytelling. I love solving puzzles—whether it's fine-tuning a Vision Transformer or architecting an interactive D3.js dashboard.
+### Projects
+- **[3D Tree Segmentation](https://github.com/dchgoh/FYP-A)** | LiDAR research published at **APSIPA ASC 2025**.
+- **[Cross-Domain Plant ID](https://github.com/bdsimry/Cross-Domain-Plant-Identification)** | Vision Transformers & LoRA fine-tuning.
+- **[HydroScope](https://github.com/bdsimry/HydroScope)** | Interactive D3.js environmental data dashboard.
 
+### Tech Stack 💻
 
+**Code**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
 
-### 🚀 featured projects
-
-#### [🌲 3D Tree Segmentation & Forest Inventory](https://github.com/dchgoh/FYP-A)
-*   **Focus:** AI Engineering & Research (FYP).
-*   **Tech:** **PointNet++**, ISBNet, PyTorch, 3D LiDAR.
-*   **Publication:** Co-authored research presented at **APSIPA ASC 2025** on the "Tropical Gap" in LiDAR processing.
-
-#### [🌿 Cross-Domain Plant Identification](https://github.com/bdsimry/Cross-Domain-Plant-Identification)
-*   **Focus:** Computer Vision & Domain Adaptation.
-*   **Tech:** PyTorch, **DINOv2**, **LoRA Fine-tuning**, Multi-Task Learning.
-*   **Impact:** Developed a model that identifies species from herbarium data to wild field photos, achieving a 10x accuracy boost on unseen species.
-
-#### [🌊 HydroScope: Water Dynamics Dashboard](https://github.com/bdsimry/HydroScope)
-*   **Focus:** Data Visualisation & Environmental Analytics.
-*   **Tech:** **D3.js**, JavaScript, Python, OECD Datasets.
-*   **Impact:** An interactive platform exploring 30 years of European water stress and usage trends.
-
-### 🛠️ technical toolbox
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Tools**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 📫 let's connect!
 - **LinkedIn:** (https://www.linkedin.com/in/brenda-sim-6a28062a7/)
 - **Email:** bdsimry@gmail.com
 
-<!-- GitHub Stats Card -->
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=radical)
+<!-- Minimal Stats -->
+![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=vivid&hide_border=true)
