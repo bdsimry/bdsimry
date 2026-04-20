@@ -1,7 +1,7 @@
 # hi there, i'm brenda! 👋
 recent compsci graduate with a double major in **AI and Data Science**.  
 
-> "Teaching computers to recognize leaves while I still struggle to tell cilantro from parsley. 🌿 Solved for $X$, now looking for the next puzzle. 🧩"
+> "I build things at night and overthink them in the morning."
 
 ### about me
 - 🎓 BSc (CS) Computer Science (AI & Data Science) @ Swinburne Sarawak.
@@ -29,15 +29,17 @@ An interactive data visualisation platform built with **D3.js**. Analyzes 30 yea
 **code**  
 ![Python](https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat&logo=javascript&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-334155?style=flat&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/C-334155?style=flat&logo=c&logoColor=white)  
 ![Tailwind](https://img.shields.io/badge/Tailwind-334155?style=flat&logo=tailwind-css&logoColor=white) 
+![SQL/DQL](https://img.shields.io/badge/SQL%2FDQL-334155?style=flat&logo=databricks&logoColor=white)
 
 **tools**  
 ![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat&logo=github&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat&logo=pytorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-334155?style=flat&logo=tensorflow&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/Colab-334155?style=flat&logo=googlecolab&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-334155?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-334155?style=flat&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-334155?style=flat&logo=react&logoColor=white) 
 
