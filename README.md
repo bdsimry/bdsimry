@@ -42,4 +42,4 @@ I am a recent graduate from **Swinburne University** with a passion for bridging
 ---
 
 <!-- GitHub Stats Card -->
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=radical)
