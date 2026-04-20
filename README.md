@@ -35,8 +35,8 @@ An interactive data visualisation platform built with **D3.js**. Analyzes 30 yea
 <hr>
 
 ### 📫 let's connect!
-- **LinkedIn:** [brenda-sim](https://www.linkedin.com/in/brenda-sim-6a28062a7/)
-- **Email:** bdsimry@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/brenda-sim-6a28062a7/)
+- [Email](mailto:bdsimry@gmail.com)
 
 <hr>
 
