@@ -7,8 +7,7 @@ recent compsci graduate with a double major in **AI and Data Science**.
 - 🔍 Actively seeking opportunities in **AI, Machine Learning, and Data Science**
 - 🔬 Co-author of research on 3D Forest Segmentation presented at **APSIPA ASC 2025**
 
-<hr style="border: none; height: 1px; background-color: #e5e7eb;">
-### featured projects 🚀
+***
 
 #### [AI-Driven 3D Tree Segmentation](https://github.com/dchgoh/FYP-A)
 An automated pipeline for 3D tree organ segmentation. Developed for my Final Year Project, this research quantified the "Tropical Gap" in LiDAR processing for rainforest environments.
