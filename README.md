@@ -4,10 +4,10 @@ recent compsci graduate with a double major in **AI and Data Science**.
 > "I build things at night and overthink them in the morning."
 
 ### about me
-- 🎓 BSc (CS) Computer Science (AI & Data Science) @ Swinburne Sarawak.
-- 📍 Based in Malaysia
-- 🔍 Actively seeking opportunities in **AI, Machine Learning, and Data Science**
-- 🔬 Co-author of research on 3D Forest Segmentation presented at **APSIPA ASC 2025**
+- BSc (CS) Computer Science (AI & Data Science) @ Swinburne Sarawak.
+- Based in Malaysia
+- Actively seeking opportunities in **AI, Machine Learning, and Data Science**
+- Co-author of research on 3D Forest Segmentation presented at **APSIPA ASC 2025**
 
 <hr>
 
