@@ -11,7 +11,7 @@ recent compsci graduate with a double major in **AI and Data Science**.
 
 <hr>
 
-### featured projects 🚀
+### featured projects
 
 #### [AI-Driven 3D Tree Segmentation](https://github.com/dchgoh/FYP-A)
 An automated pipeline for 3D semantic and instance segmentation of trees. Developed for my Final Year Project, this research quantified the "Domain Gap" in LiDAR processing for rainforest environments.
@@ -24,7 +24,7 @@ An interactive data visualisation platform built with **D3.js**. Analyzes 30 yea
 
 <hr>
 
-### tech stack 💻
+### tech stack
 
 **code**  
 ![Python](https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat&logo=javascript&logoColor=white) ![SQL/DQL](https://img.shields.io/badge/SQL%2FDQL-334155?style=flat&logo=databricks&logoColor=white) ![C](https://img.shields.io/badge/C-334155?style=flat&logo=c&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-334155?style=flat&logo=tailwind-css&logoColor=white) 
@@ -40,6 +40,6 @@ An interactive data visualisation platform built with **D3.js**. Analyzes 30 yea
 
 <hr>
 
-### stats 📊
+### stats
 ![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsimry&show_icons=true&theme=transparent&title_color=334155&icon_color=334155&text_color=444&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsimry&layout=compact&theme=transparent&title_color=334155&text_color=444&hide_border=true)
